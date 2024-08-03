@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chino Ukaegbu</h1>
-<h3 align="center">I'm a passionate full-stack developer</h3>
+<h3 align="center">I'm a full-stack developer always on the hunt for new projects to bring to life</h3>
 
 - 🔭 I’m currently working on [SongBoard - an app that generates a playlist of songs based on the 'vibes' of your Pinterest boards](https://songboard-front-end.vercel.app/)
 
-- 💬 Ask me about **React, NodeJS and JJK chapter 120**
+- 💬 Ask me about **Fact-checking and language models, React, NodeJS and JJK chapter 120**
 
 - 📫 How to reach me **chinoukaegbu@gmail.com**
 
